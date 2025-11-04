@@ -60,7 +60,7 @@
 
 ## 📫 Contact Me  
 📧 Email: **pagareajinkya24@gmail.com**  
-🌐 GitHub: [Ajinkya2441](https://github.com/AjinkyaPagare)  
+🌐 GitHub: [AjinkyaPagare](https://github.com/AjinkyaPagare)  
 💼 LinkedIn: [Ajinkya Pagare](https://www.linkedin.com/in/ajinkya-pagare)  
 
 ---
