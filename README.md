@@ -31,10 +31,7 @@
 
 ---
 
-## 🚧 Currently Working On
 
-<marquee behavior="scroll" direction="left" scrollamount="8">
-- [LanChat](https://github.com/Ajinkya2441/LanChat) &nbsp;&nbsp; | &nbsp;&nbsp; 
 
 </marquee>
 ### 🧠 Languages and Tools
@@ -46,31 +43,20 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnaborude&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaborude&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AjinkyaPagare&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaPagare&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ### 🪄 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaborude&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjinkyaPagare&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajinkya2441&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajinkya2441&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ajinkya2441&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165">
-</p>
-
----
 
 ## 📫 Contact Me  
 📧 Email: **pagareajinkya24@gmail.com**  
@@ -81,7 +67,7 @@
 
 ## 🚀 Profile Badges  
 ![Profile Views](https://komarev.com/ghpvc/?username=Ajinkya2441&label=Profile%20Views&color=blue&style=flat)  
-[![GitHub followers](https://img.shields.io/github/followers/Ajinkya2441?label=Followers&style=social)](https://github.com/Ajinkya2441)  
+[![GitHub followers](https://img.shields.io/github/followers/AjinkyaPagare?label=Followers&style=social)](https://github.com/Ajinkya2441)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ajinkya-pagare)  
 
 ---
