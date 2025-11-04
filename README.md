@@ -37,6 +37,25 @@
 - [LanChat](https://github.com/Ajinkya2441/LanChat) &nbsp;&nbsp; | &nbsp;&nbsp; 
 
 </marquee>
+### 🧠 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,react,flask,mysql,linux,opencv,pytorch,tensorflow,sklearn,vscode,git" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnaborude&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaborude&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🪄 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnaborude&theme=github-compact&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
