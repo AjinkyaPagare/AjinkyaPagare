@@ -66,8 +66,8 @@
 ---
 
 ## 🚀 Profile Badges  
-![Profile Views](https://komarev.com/ghpvc/?username=Ajinkya2441&label=Profile%20Views&color=blue&style=flat)  
-[![GitHub followers](https://img.shields.io/github/followers/AjinkyaPagare?label=Followers&style=social)](https://github.com/Ajinkya2441)  
+![Profile Views](https://komarev.com/ghpvc/?username=AjinkyaPagare&label=Profile%20Views&color=blue&style=flat)  
+[![GitHub followers](https://img.shields.io/github/followers/AjinkyaPagare?label=Followers&style=social)](https://github.com/AjinkyaPagare)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ajinkya-pagare)  
 
 ---
